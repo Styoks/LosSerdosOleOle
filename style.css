@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(41, 51, 48);
+    color: bisque;
+}
+
+.title {
+    color: beige;
+    text-align: center;
+    font-size: 50px;
+}
+.body {
+    text-align: center;
+    color: bisque;
+    font-size: 20px;
+}
+body div p {
+    color: blanchedalmond;
+}
+a{
+    color: blanchedalmond;
+}
+a:hover {
+    color: aqua;
+}
+.pigimage{
+    width: 1000px;
+    background-color: aqua;
+    align-content: center;
+}
+.titlepig1 {
+    text-align: center;
+}
